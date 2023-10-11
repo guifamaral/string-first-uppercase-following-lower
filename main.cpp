@@ -1,3 +1,6 @@
+#include <iostream>
+#include <string>
+
 std::string solution(string noun) {
     if (noun.empty()) {
         return noun;
